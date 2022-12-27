@@ -3,3 +3,6 @@ hello
 how
 
 end
+
+heelo
+die
